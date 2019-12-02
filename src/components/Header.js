@@ -7,7 +7,7 @@ class Header extends React.Component {
         return (
             <section id="header">
                 <div className="inner">
-                    <span className="image fitmax"><img src={logolight} alt="" /></span>
+                    <span className="image fitmax"><img src={logodark} alt="" /></span>
                     <h1>We are <strong>Netfra</strong>.<br />
                     We focus on IT Networks and Infrastructure design, projects, management, and the structures that surround them.</h1>
                     <p>Project management and planning, Enterprise Architecture, ongoing maintenance. We do it all.</p>
