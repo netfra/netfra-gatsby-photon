@@ -9,10 +9,8 @@ class Header extends React.Component {
                 <div className="inner">
                     <span className="image fitmax"><img src={logolight} alt="" /></span>
                     <h1>We are <strong>Netfra</strong>.<br />
-                    We focus on IT Networks and Infrastructure<br />
-                    design, projects, management.</h1>
-                    <p>Project management and planning, Enterprise<br />
-                    Architecture, ongoing maintenance. We do it all.</p>
+                    We focus on IT Networks and Infrastructure design, projects, management, and the structures that surround them.</h1>
+                    <p>Project management and planning, Enterprise Architecture, ongoing maintenance. We do it all.</p>
                     <ul className="actions">
                         <li><a href="#one" className="button scrolly">Discover</a></li>
                     </ul>
