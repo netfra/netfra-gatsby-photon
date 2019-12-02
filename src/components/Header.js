@@ -1,11 +1,13 @@
 import React from 'react'
+import logodark from '../assets/images/netfra_logo_dark.svg'
+import logolight from '../assets/images/netfra_logo_light.svg'
 
 class Header extends React.Component {
     render() {
         return (
             <section id="header">
                 <div className="inner">
-                    <span className="icon major fa-cloud"></span>
+                    <span className="image fit"><img src={logodark} alt="" /></span>
                     <h1>We are <strong>Netfra</strong>.<br />
                     We focus on IT Networks and Infrastructure<br />
                     design, projects, management.</h1>
