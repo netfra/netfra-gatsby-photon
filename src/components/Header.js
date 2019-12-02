@@ -7,7 +7,7 @@ class Header extends React.Component {
         return (
             <section id="header">
                 <div className="inner">
-                    <span className="image fit"><img src={logodark} alt="" /></span>
+                    <span className="image fit"><img src={logolight} alt="" /></span>
                     <h1>We are <strong>Netfra</strong>.<br />
                     We focus on IT Networks and Infrastructure<br />
                     design, projects, management.</h1>
