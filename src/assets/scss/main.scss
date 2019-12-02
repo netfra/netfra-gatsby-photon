@@ -506,6 +506,15 @@
 				width: 100%;
 			}
 		}
+		&.fitmax {
+			display: block;
+			margin: 0 0 _size(element-margin) 0;
+			max-width: 700px;
+
+			img {
+				max-width: 700px;
+			}
+		}
 	}
 
 /* List */
