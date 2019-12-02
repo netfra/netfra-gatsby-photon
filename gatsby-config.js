@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: "Gatsby Starter - Photon",
-    author: "Hunter Chang",
-    description: "A Gatsby.js Starter based on Photon by HTML5 UP"
+    title: "Netfra Landing Page",
+    author: "Netfra Limited",
+    description: "Netfra, an IT Professional Services company"
   },
   plugins: [
     'gatsby-plugin-react-helmet',
