@@ -989,7 +989,6 @@
 			opacity: 1;
 			position: relative;
 			z-index: 1;
-			max-width: 700px;
 
 			.actions {
 				@include vendor('transition', 'transform 1.25s ease');
